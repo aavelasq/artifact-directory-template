@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/aavelasq/artifact-directory-template.git",
+    "project-repository": "https://github.com/aavelasq/dsc180-Q2sentiment.git",
+    "dockerhub-repository": "aavelasq/twitter-project:latest",
+    "project-website-url": "https://aavelasq.github.io/projects/Cancel-Culture-Sentiment/",
+    "project-website-code": "https://github.com/aavelasq/dsc180-website.git"
 }
